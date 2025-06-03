@@ -28,4 +28,6 @@ public class PlayerHealth : MonoBehaviour
     {
         Debug.Log("Player Died!");
     }
+
+    public int GetHealth() => currentHealth;
 }

@@ -3,40 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Library\\PackageCache\\com.unity.render-pipelines.high-definition@4de1dfa20daa\\Runtime\\Material\\Lit\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.high-definition@4de1dfa20daa\\Runtime\\Material\\Lit\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\assets\\quickoutline\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\quickoutline\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\assets\\scripts\\playershoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playershoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\brand\\onedrive\\documentos\\proyectos videojuegos\\overdrive protocol 3d\\my project\\assets\\scripts\\healthui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\assets\\scripts\\playerinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Library\\PackageCache\\com.unity.render-pipelines.high-definition@4de1dfa20daa\\Runtime\\Material\\Lit\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.high-definition@4de1dfa20daa\\Runtime\\Material\\Lit\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\assets\\models\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\models\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\assets\\scripts\\playershoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playershoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\assets\\quickoutline\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\quickoutline\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\assets\\models\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\models\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\assets\\scripts\\playerinputactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,71 +70,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EnemySpawner.cs",
-              "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\EnemySpawner.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySpawner.cs",
-              "ToolTip": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\EnemySpawner.cs",
-              "RelativeToolTip": "Assets\\Scripts\\EnemySpawner.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABPAAAA",
+              "DocumentIndex": 1,
+              "Title": "HealthUI.cs",
+              "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\HealthUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthUI.cs",
+              "ToolTip": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\HealthUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T18:50:51.732Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PlayerShoot.cs",
-              "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\PlayerShoot.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerShoot.cs",
-              "ToolTip": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\PlayerShoot.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerShoot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T18:31:15.304Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PlayerInputActions.cs",
-              "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\PlayerInputActions.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInputActions.cs",
-              "ToolTip": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\PlayerInputActions.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerInputActions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T18:18:11.529Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PlayerInputHandler.cs",
-              "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\PlayerInputHandler.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInputHandler.cs",
-              "ToolTip": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\PlayerInputHandler.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerInputHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T18:15:38.099Z"
+              "WhenOpened": "2025-06-03T01:50:52.959Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "AutoSkill.cs",
-              "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\AutoSkill.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\AutoSkill.cs",
-              "ToolTip": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\AutoSkill.cs",
-              "RelativeToolTip": "Assets\\Scripts\\AutoSkill.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T17:17:46.686Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "PlayerAim.cs",
               "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\PlayerAim.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAim.cs",
@@ -142,19 +99,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
               "ToolTip": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCQAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T17:15:03.998Z"
+              "WhenOpened": "2025-05-28T17:15:03.998Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ManualShooter.cs",
               "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\ManualShooter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ManualShooter.cs",
@@ -166,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Lit.shader",
               "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Library\\PackageCache\\com.unity.render-pipelines.high-definition@4de1dfa20daa\\Runtime\\Material\\Lit\\Lit.shader",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.high-definition@4de1dfa20daa\\Runtime\\Material\\Lit\\Lit.shader",
@@ -174,24 +132,95 @@
               "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.high-definition@4de1dfa20daa\\Runtime\\Material\\Lit\\Lit.shader",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-05-28T18:27:09.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T18:27:09.915Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T18:52:19.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerInputActions.cs",
+              "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\PlayerInputActions.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInputActions.cs",
+              "ToolTip": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\PlayerInputActions.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInputActions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T18:18:11.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PlayerHealth.cs",
               "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\PlayerHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
               "ToolTip": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\PlayerHealth.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T23:05:45.242Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "PlayerInputHandler.cs",
+              "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\PlayerInputHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInputHandler.cs",
+              "ToolTip": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\PlayerInputHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInputHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T18:15:38.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AutoSkill.cs",
+              "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\AutoSkill.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AutoSkill.cs",
+              "ToolTip": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\AutoSkill.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AutoSkill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:17:46.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerShoot.cs",
+              "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\PlayerShoot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerShoot.cs",
+              "ToolTip": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\PlayerShoot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerShoot.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T18:31:15.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySpawner.cs",
+              "ToolTip": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemySpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T18:50:51.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Readme.txt",
               "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\QuickOutline\\Readme.txt",
               "RelativeDocumentMoniker": "Assets\\QuickOutline\\Readme.txt",
@@ -203,19 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Enemy.cs",
-              "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\Enemy.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
-              "ToolTip": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\Enemy.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBoAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T18:52:19.251Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Bullet.cs",
               "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Models\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\Models\\Bullet.cs",
@@ -227,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "IsoCameraFollow.cs",
               "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Documentos\\Proyectos Videojuegos\\Overdrive Protocol 3d\\My project\\Assets\\Scripts\\IsoCameraFollow.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\IsoCameraFollow.cs",

@@ -34,6 +34,7 @@ public class PlayerMovement : MonoBehaviour
         Move();
         RotateToMouse();
         UpdateAnimation();
+        rb.AddForce(Vector3.down * 90f, ForceMode.Acceleration);
     }
 
     void Move()
